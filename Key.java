@@ -27,11 +27,11 @@ public class Key extends Element {
         canExplode = true;
 
         switch (colour) {
-            case RED -> image = new Image("images/RedKey.png");
-            case GREEN -> image = new Image("images/GreenKey.png");
-            case YELLOW -> image = new Image("images/YellowKey.png");
-            case BLUE -> image = new Image("images/BlueKey.png");
-            case RAINBOW -> image = new Image("images/RainbowKey.png");
+            case RED -> image = new Image("images/red-key.png");
+            case GREEN -> image = new Image("images/green-key.png");
+            case YELLOW -> image = new Image("images/yellow-key.png");
+            case BLUE -> image = new Image("images/blue-key.png");
+            case RAINBOW -> image = new Image("images/rainbow-key.png");
         }
     }
 

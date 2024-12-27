@@ -16,7 +16,7 @@ public class MagicWall extends Element {
      */
     public MagicWall(final int row, final int column) {
         super(row, column);
-        image = new Image("images/MagicWall.png");
+        image = new Image("images/magic-wall.png");
         canBeEntered = false;
         canExplode = true;
         name = "MagicWall";

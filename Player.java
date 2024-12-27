@@ -40,7 +40,7 @@ public class Player extends Element {
     public void imageAnimation() {
         lookingRight = !lookingRight;
         if (lookingRight) {
-            image = new Image("images/playerLookingRight.png");
+            image = new Image("images/player-looking-right.png");
         } else if (!lookingRight) {
             image = new Image("images/player.png");
         }

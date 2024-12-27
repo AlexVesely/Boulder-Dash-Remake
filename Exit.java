@@ -25,7 +25,7 @@ public class Exit extends Element {
         if (exitExists) {
             throw new IllegalStateException("An exit already exists!");
         }
-        image = new Image("images/Exit.png");
+        image = new Image("images/exit.png");
         canBeEntered = false;  // Initially can't be entered
         canExplode = false;
         name = "Exit";

@@ -27,10 +27,10 @@ public class LockedDoor extends Element {
         canExplode = true;
 
         switch (colour) {
-            case RED -> image = new Image("images/RedLockedDoor.png");
-            case GREEN -> image = new Image("images/GreenLockedDoor.png");
-            case YELLOW -> image = new Image("images/YellowLockedDoor.png");
-            case BLUE -> image = new Image("images/BlueLockedDoor.png");
+            case RED -> image = new Image("images/red-locked-door.png");
+            case GREEN -> image = new Image("images/green-locked-door.png");
+            case YELLOW -> image = new Image("images/yellow-locked-door.png");
+            case BLUE -> image = new Image("images/blue-locked-door.png");
         }
     }
 

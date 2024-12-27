@@ -17,7 +17,7 @@ public class NormalWall extends Element {
      */
     public NormalWall(final int row, final int column) {
         super(row, column);
-        image = new Image("images/normalwall.png");
+        image = new Image("images/normal-wall.png");
         canBeEntered = false;
         canExplode = true;
         name = "NormalWall";

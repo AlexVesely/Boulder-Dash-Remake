@@ -109,7 +109,7 @@ public class Main extends Application {
 	 * @return the image of the logo
 	 */
 	private ImageView createLogo() {
-		Image logoImage = new Image("images/BoulderDashTitle.png");
+		Image logoImage = new Image("images/title.png");
 		ImageView logoImageView = new ImageView(logoImage);
 		logoImageView.setFitWidth(LOGO_WIDTH);
 		logoImageView.setPreserveRatio(true);
