@@ -1,3 +1,5 @@
-# Group 4 Shared Repository
+Boulder Dash Remake
 
-This is Group 4s Boulder Dash Repository
+Forked from my group, changes since 27/12 are made only by me.
+
+Credit to: @Karamveer9200 , @Rago179 , @Tahi-rahman , @Superaka5 , @rhysll , @ibbybk
